@@ -1,10 +1,11 @@
-Developed a recipe finder app
-fetching recipe data from Api using Retrofit
-using jetpack Compose  for UI Design
-kotlin for writing logic
- using Viewmodel, MVI
-Search Query for finding recipe
-see recipe  video directed on youtube
-random recipe on home page
-All about recipe making process
-Ingredients / instructions  for making recipe 
+Developed a recipe finder app,
+fetching recipe data from Api using Retrofit,
+using jetpack Compose  for UI Design,
+kotlin for writing logic,
+ using Viewmodel, MVI,,
+Search Query for finding recipe,
+see recipe  video directed on youtube,
+random recipe on home page,
+All about recipe making process,
+Ingredients / instructions  for making recipe ,
+room database for saving recipe in favourite section 
