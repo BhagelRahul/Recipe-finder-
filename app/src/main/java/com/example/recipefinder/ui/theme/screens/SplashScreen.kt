@@ -39,9 +39,9 @@ fun SplashScreen(onTimeout: () -> Unit) {
         .background(Color.White)) {
         Row(modifier = Modifier
             .fillMaxWidth()
-            .padding(start = 22.dp, top = 50.dp)) {
+            .padding(start = 25.dp, top = 50.dp)) {
             Text(
-                text = " Find Your Recipe Here ?",
+                text = "   Find Your Recipe Here ?",
                 fontSize = 26.sp,
                 fontWeight = FontWeight(900),
                 fontFamily = FontFamily.Cursive,
@@ -63,7 +63,7 @@ fun SplashScreen(onTimeout: () -> Unit) {
             .fillMaxWidth()
             .padding(start = 25.dp)) {
             Text(
-                text = "\uD83D\uDC49 This is Only for U ",
+                text = "  \uD83D\uDC49 This is Only for U  ",
                 fontSize = 20.sp,
                 fontWeight = FontWeight(600),
                 fontFamily = FontFamily.Serif,

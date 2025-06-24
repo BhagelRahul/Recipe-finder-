@@ -69,7 +69,7 @@ fun SuccessComponent(
         }
 
         SearchComponent(onSearchClicked = onSearchClicked)
-        RecipesList(recipes = recipe)
+        RecipesList(meals = recipe)
     }
 }
 

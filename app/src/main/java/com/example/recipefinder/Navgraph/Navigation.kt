@@ -5,6 +5,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import com.example.recipefinder.data.Model.Meal
 import com.example.recipefinder.ui.theme.components.FavouriteScreen
 import com.example.recipefinder.ui.theme.screens.HomeScreen
 import com.example.recipefinder.ui.theme.screens.SplashScreen

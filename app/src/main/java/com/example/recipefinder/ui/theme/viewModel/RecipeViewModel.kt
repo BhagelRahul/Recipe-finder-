@@ -28,7 +28,7 @@ class RecipeViewModel: ViewModel() {
                 )
             }catch (e: Exception){
                 _state.value= RecipeViewState.Error("Error fetching recipe")
-                Log.e("RecipeViewModel", "API Error", e)
+               // Log.e("RecipeViewModel", "API Error", e)
             }
         }
     }
